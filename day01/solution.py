@@ -1,4 +1,22 @@
-
+# HO HO HO HOSEHBO!!!!!
+#        ____
+#      {} _  \
+#         |__ \
+#        /_____\
+#        \o o)\)_______
+#        (<  ) /#######\
+#      __{'~` }#########|
+#     /  {   _}_/########|
+#    /   {  / _|#/ )####|
+#   /   \_~/ /_ \  |####|
+#   \______\/  \ | |####|
+#    \__________\|/#####|
+# snd |__[X]_____/ \###/ 
+#     /___________\
+#      |    |/    |
+#      |___/ |___/
+#     _|   /_|   /
+#    (___,_(___,_)
 
 class Solution:
     def partOne(self, listOne: list[int], listTwo:list[int]):
@@ -48,7 +66,3 @@ with open("input.txt", "r") as file:
 
 solution = Solution()
 print(solution.partTwo_similarity(listOne, listTwo))
-# print(solution.partOne(listOne, listTwo))
-        
-
-
